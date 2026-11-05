@@ -66,19 +66,17 @@ I enjoy exploring technology, developing web-based applications, processing data
 - Database Management
 - Digital Transformation
 
+
 ### 📫 Let's Connect!
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/faza-intaniansyah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fazaintaniansyah/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pjaintn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Always curious, continuously learning, and building something meaningful through technology."</i>
 </p>
